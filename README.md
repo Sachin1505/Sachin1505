@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Swift, XCode, App Development**
 
-- 📫 How to reach me: **sachinbhandari1505@gmail.com**
+- 📫 How to reach me: **sachin.freelancer15@gmail.com**
 
 - 📄 Know about my experiences: [https://drive.google.com/file/d/16TuQPE4bVEs-QL9lE6gBetMuCrz5t_zD/view?usp=sharing](https://drive.google.com/file/d/16TuQPE4bVEs-QL9lE6gBetMuCrz5t_zD/view?usp=sharing)
 
