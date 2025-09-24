@@ -5,11 +5,11 @@
 
 ### My most relevant skills:-
 - Experience in full lifecycle development on iOS applications and Enterprise mobile applications.
-- Good knowledge of Objective-c, Swift, and software design patterns.
+- Good knowledge of Objective-C, Swift, and software design patterns.
 - Experience in using third-party libraries and APIs.
-- Familiarity with Firebase cloud message APIs and push notifications.
+- Familiarity with Firebase Cloud message APIs and push notifications.
 - Experience with offline storage.
-- Extensive experience of working with RESTful APIs.
+- Extensive experience working with RESTful APIs.
 - Social network API integration ( Facebook, Google, Firebase ).
 - Payment Gateway Integration ( Razorpay, MobiKwik ).
 - Deep Knowledge in iOS, iPhone SDK, Objective C, CocoaTouch Frameworks, Xcode, Core Foundation, Design Principles.
