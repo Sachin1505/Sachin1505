@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sachin Bhandari  
 
-🚀 **iOS & Flutter Developer | Mobile App Engineer | XR Enthusiast**  
+🚀 **iOS & Flutter Developer | Mobile App Engineer
 With 6+ years of experience in building user-friendly, high-performing mobile apps. Skilled in **Swift, Objective-C, Flutter (Dart), and Unity 3D**, with a strong foundation in UI/UX and mobile development lifecycle.  
 
 ---
@@ -24,7 +24,7 @@ With 6+ years of experience in building user-friendly, high-performing mobile ap
 - Contributed to **Flutter cross-platform apps** with health features (pedometer, BMI calculator).  
 - Collaborated with UI/UX designers and integrated 3rd party APIs.  
 
-### **iOS Developer — Self Employed**  
+### **iOS Developer — Self-Employed**  
 *01/2020 – 05/2020*  
 - Collected requirements, implemented new features, and resolved bugs.  
 
