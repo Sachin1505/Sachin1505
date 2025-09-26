@@ -1,39 +1,64 @@
 <p align="center"> <img src="https://github.com/Sachin1505/Sachin1505/blob/main/images/me.png"> </p>
 
-<h1 align="center">Hi 👋, I'm Sachin Bhandari</h1>
-<h3 align="center">An app developer based in Mumbai, Maharashtra, IN, who is passionate about building mobile applications for Apple devices. I love the development process for building applications, from planning to prototyping to turning those prototypes into working products and getting them in the hands of people all over. I focus a lot on software architecture; how to make maintainable, reusable, and efficient code.</h3>
+# 👋 Hi, I'm Sachin Bhandari  
 
-### My most relevant skills:-
-- Experience in full lifecycle development on iOS applications and Enterprise mobile applications.
-- Good knowledge of Objective-C, Swift, and software design patterns.
-- Experience in using third-party libraries and APIs.
-- Familiarity with Firebase Cloud message APIs and push notifications.
-- Experience with offline storage.
-- Extensive experience working with RESTful APIs.
-- Social network API integration ( Facebook, Google, Firebase ).
-- Payment Gateway Integration ( Razorpay, MobiKwik ).
-- Deep Knowledge in iOS, iPhone SDK, Objective C, CocoaTouch Frameworks, Xcode, Core Foundation, Design Principles.
+🚀 **iOS & Flutter Developer | Mobile App Engineer | XR Enthusiast**  
+With 6+ years of experience in building user-friendly, high-performing mobile apps. Skilled in **Swift, Objective-C, Flutter (Dart), and Unity 3D**, with a strong foundation in UI/UX and mobile development lifecycle.  
 
-### Other Details
-- 🌱 I’m currently learning **RxSwift, MVVM Pattern**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sachin1505/Sachin1505/](https://github.com/Sachin1505/Sachin1505/)
+## 🔧 Tech Stack  
+- **Mobile Development:** Swift, Objective-C, Flutter (Dart), Kotlin (basics)  
+- **Backend & Databases:** ASP.NET, SQL, Firebase  
+- **Game/XR Development:** Unity 3D, Augmented Reality, Virtual Reality  
+- **Other Tools:** Git, REST APIs, Push Notifications, Payment Gateway Integration  
 
-- 💬 Ask me about **Swift, XCode, App Development**
+---
 
-- 📫 How to reach me: **sachin.freelancer15@gmail.com**
+## 💼 Work Experience  
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/16TuQPE4bVEs-QL9lE6gBetMuCrz5t_zD/view?usp=sharing](https://drive.google.com/file/d/16TuQPE4bVEs-QL9lE6gBetMuCrz5t_zD/view?usp=sharing)
+### **iOS Developer — Planet NextGen Technologies**  
+*03/2022 – 07/2025 | Mumbai, India*  
+- Built and maintained multiple iOS apps with optimized performance and stability.  
+- Developed **IoT module** for real-time temperature data monitoring.  
+- Contributed to **Flutter cross-platform apps** with health features (pedometer, BMI calculator).  
+- Collaborated with UI/UX designers and integrated 3rd party APIs.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sachin-bhandari-948454146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin bhandari" height="30" width="40" /></a>
-</p>
+### **iOS Developer — Self Employed**  
+*01/2020 – 05/2020*  
+- Collected requirements, implemented new features, and resolved bugs.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+### **iOS Developer — Cazaayan Technologies**  
+*01/2020 – 05/2020*  
+- Performed testing, bug fixes, and implemented new features.  
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sachin1505&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> </p>
+### **iOS/Unity Developer — 360 Bright Media**  
+*08/2018 – 07/2019*  
+- Developed VR/AR experiences for **Oculus Rift/GO, HTC Vive, iOS & Android**.  
+- Built and published iOS apps to the App Store.  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin1505&repo=Reachability.swift&theme=dark"> </p>
- -->
+*(More details in [my CV](#))*
+
+---
+
+## 📱 Featured Projects  
+
+- **[JourneyXPro](https://play.google.com/store/apps/details?id=com.planetgroup.journeyxpro) (iOS & Android)**  
+- **[UnitXPro Lite](https://apps.apple.com/in/app/unitxpro-lite/id1188618753) (iOS)**  
+- **[PulseXPro](https://apps.apple.com/in/app/pulsexpro/id1500408330) (iOS)**  
+- **[My OCS Journey](https://apps.apple.com/in/app/my-ocs-journey/id1558660448) (iOS)**  
+- **[PulseRe](https://apps.apple.com/in/app/pulsere/id1582952991) (iOS)**  
+- **[eAudition](https://apps.apple.com/in/app/eaudition-audition-from-home/id1300705965) (iOS)**  
+- **[LinFord Automation](https://apps.apple.com/in/app/linford-automation/id1466608210) (iOS)**  
+
+🎮 **XR / Game Dev Projects:**  
+- [VR Cricket (Prototype Video)](https://www.youtube.com/watch?v=JPDi2qjil3c&t=8s)  
+- [Western Digital AR](https://www.youtube.com/watch?v=KX-GzoJKSIM)  
+- [COPD VR Project](https://www.youtube.com/watch?v=3rTtCx1lx_8)  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: **sachinbhandari1505@gmail.com**  
+- 💼 LinkedIn: [Sachin Bhandari](https://www.linkedin.com/in/sachin-bhandari-948454146/)  
+- 📍 Mumbai, India  
