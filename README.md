@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sachin Bhandari  
 
-🚀 **iOS & Flutter Developer | Mobile App Engineer
+🚀 **iOS & Flutter Developer | Mobile App Engineer**
 
 With 6+ years of experience in building user-friendly, high-performing mobile apps. Skilled in **Swift, Objective-C, Flutter (Dart), and Unity 3D**, with a strong foundation in UI/UX and mobile development lifecycle.  
 
@@ -38,7 +38,7 @@ With 6+ years of experience in building user-friendly, high-performing mobile ap
 - Developed VR/AR experiences for **Oculus Rift/GO, HTC Vive, iOS & Android**.  
 - Built and published iOS apps to the App Store.  
 
-*(More details in [my CV](#))*
+*(More details in [my CV](https://drive.google.com/file/d/1NmPtQpS3JBY3Qg5ljE59T_OK7KMwIq3Q/view?usp=drive_link))*
 
 ---
 
